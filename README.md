@@ -17,7 +17,7 @@
 
 <div align="left">
 
-Hi there! I'm **Hamisi Onesmus**, a passionate **Senior Software Engineer** with expertise in building scalable, high-performance applications across the full technology stack. With a strong foundation in **15+ programming languages** and **50+ technologies**, I specialize in:
+Hi there! I'm **Hamisi Onesmus**, a passionate **Senior Software Engineer** with expertise in building scalable, high-performance applications across the full technology stack. With a strong foundation in **Comprehensive programming languages** and **technologies**, I specialize in:
 
 - 🏗️ **System Architecture** & **Microservices Design**
 - ☁️ **Cloud-Native Development** & **DevOps**
