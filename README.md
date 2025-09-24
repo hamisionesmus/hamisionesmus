@@ -27,6 +27,8 @@ Hi there! I'm **Hamisi Onesmus**, a passionate **Senior Software Engineer** with
 
 **Currently:** Leading innovative projects in fintech, healthcare, and AI 🚀
 
+**Available to Help:** Need assistance with tech debugging, code reviews, architecture decisions, or any tech-related challenges? Feel free to reach out - I'm here to help! 💬
+
 </div>
 
 ---
