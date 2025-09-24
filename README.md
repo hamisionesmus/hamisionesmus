@@ -11,6 +11,25 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hamisikilumo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kilumohamisi@gmail.com)
 
+---
+
+### 👨‍💻 **About Me**
+
+<div align="left">
+
+Hi there! I'm **Hamisi Onesmus**, a passionate **Senior Software Engineer** with expertise in building scalable, high-performance applications across the full technology stack. With a strong foundation in **15+ programming languages** and **50+ technologies**, I specialize in:
+
+- 🏗️ **System Architecture** & **Microservices Design**
+- ☁️ **Cloud-Native Development** & **DevOps**
+- 🤖 **Machine Learning** & **Data Engineering**
+- 🔒 **Security-First Development** & **Performance Optimization**
+- 🌐 **Full-Stack Web Development** & **API Design**
+
+**Currently:** Leading innovative projects in fintech, healthcare, and AI 🚀
+
+</div>
+
+---
 
 ### 🔥 **Skills in Action**
 
