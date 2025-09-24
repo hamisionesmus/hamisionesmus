@@ -129,8 +129,5 @@ Hi there! I'm **Hamisi Onesmus**, a passionate **Senior Software Engineer** with
 
 **Open to collaborations on innovative projects in fintech, healthcare, and AI! 🚀**
 
----
-
-⭐️ **Built by [Hamisi Onesmus](https://github.com/hamisionesmus)**
 
 </div>
