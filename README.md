@@ -4,10 +4,38 @@
 
 **Senior Software Engineer** | **15+ Languages** | **Cloud & AI Expert**
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=940&lines=Building+Scalable+Systems+%7C+AI+Enthusiast+%7C+Open+Source+Contributor;Full-Stack+Developer+%7C+Cloud+Architect+%7C+Distributed+Systems+Expert;Problem+Solver+%7C+Tech+Innovator+%7C+Lifelong+Learner" alt="Typing SVG" />
+
 [![Visitor Count](https://komarev.com/ghpvc/?username=hamisionesmus&color=blueviolet&style=for-the-badge)](https://github.com/hamisionesmus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamisi-onesmus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hamisikilumo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kilumohamisi@gmail.com)
+
+---
+
+### 🎯 **Currently Crafting**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamisionesmus&theme=radical&hide_border=true&bg_color=0D1117" alt="Wakatime stats" />
+
+</div>
+
+---
+
+### 🔥 **Skills in Action**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,rust,go,cpp,cs,kotlin,swift,scala,php,ruby&theme=dark" alt="Programming Languages" />
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nodejs,express,fastapi,django,flask,spring,laravel,rails,dotnet&theme=dark" alt="Frameworks & Libraries" />
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,prometheus,grafana,postgres,mongodb,redis&theme=dark" alt="Cloud & DevOps" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,git,github,githubactions,jenkins,linux,bash,vscode&theme=dark" alt="AI/ML & Tools" />
+
+</div>
 
 ---
 
@@ -42,15 +70,19 @@
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Analytics**
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hamisionesmus&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 ![hamisionesmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamisionesmus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamisionesmus&layout=compact&theme=radical&langs_count=12&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamisionesmus&theme=radical&hide_border=true&background=0D1117)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamisionesmus&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -89,6 +121,6 @@
 
 ---
 
-⭐️ **Built with ❤️ by [Hamisi Onesmus](https://github.com/hamisionesmus)**
+⭐️ **Built by [Hamisi Onesmus](https://github.com/hamisionesmus)**
 
 </div>
