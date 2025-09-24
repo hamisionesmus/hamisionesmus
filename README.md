@@ -2,7 +2,7 @@
 
 # 🌟 Hamisi Onesmus
 
-**Senior Software Engineer** | **15+ Languages** | **Cloud & AI Expert**
+**Senior Software Engineer** | **Cloud & AI Expert**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=940&lines=Building+Scalable+Systems+%7C+AI+Enthusiast+%7C+Open+Source+Contributor;Full-Stack+Developer+%7C+Cloud+Architect+%7C+Distributed+Systems+Expert;Problem+Solver+%7C+Tech+Innovator+%7C+Lifelong+Learner" alt="Typing SVG" />
 
