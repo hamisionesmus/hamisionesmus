@@ -4,7 +4,7 @@
 
 **Senior Software Engineer** | **15+ Languages** | **Cloud & AI Expert**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=940&lines=Building+Scalable+Systems+%7C+AI+Enthusiast+%7C+Open+Source+Contributor;Full-Stack+Developer+%7C+Cloud+Architect+%7C+Distributed+Systems+Expert;Problem+Solver+%7C+Tech+Innovator+%7C+Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=940&lines=Building+Scalable+Systems+%7C+AI+Enthusiast+%7C+Open+Source+Contributor;Full-Stack+Developer+%7C+Cloud+Architect+%7C+Distributed+Systems+Expert;Problem+Solver+%7C+Tech+Innovator+%7C+Lifelong+Learner" alt="Typing SVG" />
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=hamisionesmus&color=blueviolet&style=for-the-badge)](https://github.com/hamisionesmus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamisi-onesmus)
